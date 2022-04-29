@@ -1,0 +1,22 @@
+h1{
+    color:rgb(227, 129, 49);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 43px;
+
+}
+
+img{
+    width:600px;
+    height: auto;
+    
+}
+
+h2{
+    color:rgb(102, 3, 3);
+    font-size:35px;
+}
+
+p, ul, ol{
+    color:rgb(59, 55, 55);
+    font-size: 25px;
+}
